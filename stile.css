@@ -1,0 +1,67 @@
+.h1s {
+	text-align:center;
+	font-family:impact;
+	font-size:60px;
+	font-weight:bold;
+	color:rgb(20,20,250,10);
+	border-radius:100px;
+}
+body{
+	background-color:#00d4ff;
+}
+.c{
+	font-size:30px;
+	margin-left:40px;
+	color:blue;
+}
+.u{
+	font-size:30px;
+	color:blue;
+}
+.ps {
+	font-size:40px;
+	font-family:impact;
+	border-radius:30px;
+	display: flex;
+}
+.ps1 {
+	font-size:40px;
+	font-family:impact;
+	border-radius:30px;
+	display: flex;
+	text-align:center;
+	margin-left:40px;
+}
+.but1 {
+	font-size:35px;
+	border-radius:10px;
+	border:10px;
+	text-align:center;
+	margin-left:40px;
+	align:center;
+	font-weight:bold;
+	margin-top:20px;
+	cursor:pointer;
+}
+.but2 {
+	font-size:35px;
+	border-radius:10px;
+	border:10px;
+	text-align:center;
+	align:center;
+	font-weight:bold;
+	margin-top:20px;
+	cursor:pointer;
+} 
+.zmi {
+	align:center;
+	color:black;
+	border-radius:30px;
+} 
+.p0 {
+	font-size:30px;
+} 
+.p1 {
+		font-size:30px;
+		margin-left:40px;
+} 
